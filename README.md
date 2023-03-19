@@ -1,2 +1,1 @@
-# Alx-files_manager
-blue
+## alx-files_manager
